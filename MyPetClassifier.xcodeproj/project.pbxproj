@@ -13,6 +13,7 @@
 		6F8DE758280745DB00136BC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F8DE756280745DB00136BC9 /* Main.storyboard */; };
 		6F8DE75A280745DD00136BC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F8DE759280745DD00136BC9 /* Assets.xcassets */; };
 		6F8DE75D280745DD00136BC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F8DE75B280745DD00136BC9 /* LaunchScreen.storyboard */; };
+		6F8DE7652807479F00136BC9 /* MyPetClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6F8DE7642807479F00136BC9 /* MyPetClassifier.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6F8DE759280745DD00136BC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F8DE75C280745DD00136BC9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F8DE75E280745DD00136BC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F8DE7642807479F00136BC9 /* MyPetClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MyPetClassifier.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6F8DE754280745DB00136BC9 /* ViewController.swift */,
 				6F8DE756280745DB00136BC9 /* Main.storyboard */,
 				6F8DE759280745DD00136BC9 /* Assets.xcassets */,
+				6F8DE7642807479F00136BC9 /* MyPetClassifier.mlmodel */,
 				6F8DE75B280745DD00136BC9 /* LaunchScreen.storyboard */,
 				6F8DE75E280745DD00136BC9 /* Info.plist */,
 			);
@@ -141,6 +144,7 @@
 				6F8DE755280745DB00136BC9 /* ViewController.swift in Sources */,
 				6F8DE751280745DB00136BC9 /* AppDelegate.swift in Sources */,
 				6F8DE753280745DB00136BC9 /* SceneDelegate.swift in Sources */,
+				6F8DE7652807479F00136BC9 /* MyPetClassifier.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
